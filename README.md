@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on CISS (CLT Wprk)
+- 🔭 I’m currently working on CISS (CLT Work)
 - 🌱 I’m currently learning Backend and Security of information
 - 👯 I’m looking to collaborate on Anything
 - 🎓 I'm cursing ADS 
@@ -8,4 +8,5 @@
 - 📫 How to reach me: at e-mail: contato@rodrigogossi.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: 
-Well, i usually like read about philosophy and spirituality. And I like too code...
+ * Well, i usually like read about philosophy and spirituality. And I like to code...
+ * I NO have social Networks 
